@@ -1,0 +1,28 @@
+{
+  "name": "gridless",
+  "version": "1.0.0",
+  "description": "Simple grid system in less",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jpratas/gridless.git"
+  },
+  "keywords": [
+    "grid",
+    "less"
+  ],
+  "author": "Joao Pratas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jpratas/gridless/issues"
+  },
+  "homepage": "https://github.com/Jpratas/gridless#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-less": "^4.0.1"
+  }
+}
